@@ -39,4 +39,6 @@ WebServer server(80);  // Порт 80 по умолчанию
 ***{PORT}*** - по умолчанию **80**
 
 1. HTML страница: http://{IP}:{PORT}/  
-2. JSON ответ для Алисы: http://{IP}:{PORT}/get
+![page](https://github.com/user-attachments/assets/b01ec3f2-9203-4d7a-b5c1-6f2ca6969b5f)
+2. JSON ответ для Алисы: http://{IP}:{PORT}/get  
+![json](https://github.com/user-attachments/assets/13058ea8-4044-41d7-8a72-0d1b4d268032)
