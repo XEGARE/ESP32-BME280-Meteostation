@@ -4,6 +4,8 @@ English | [Русский](README_RU.md)
 
 Weather station for **ESP32-WROOM-32** with an I2C BME280 sensor and a web interface displaying temperature and humidity.
 
+<img width="825" height="507" alt="1790417222" src="https://github.com/user-attachments/assets/18d02ebb-dc3e-48c8-a252-49ab7b6be09c" />
+
 ## Features
 
 - Temperature and humidity on the main page, refreshed every two seconds.
@@ -47,6 +49,8 @@ Password: password123
 ```
 
 Defaults are defined by `AP_SSID` and `AP_PASSWORD` in the sketch. Captive portal opens the settings page; if it does not open, visit [http://192.168.4.1](http://192.168.4.1).
+
+<img width="825" height="733" alt="1790417244" src="https://github.com/user-attachments/assets/8cb19820-d1a1-4249-b91f-3569ef761d5e" />
 
 Choose EN or RU, enter your Wi-Fi SSID/password and sea-level reference pressure, then select **Save and restart**. Empty password supports an open network. SSID limit: 32 UTF-8 bytes. WPA passwords: 8–63 bytes or a 64-character hexadecimal key.
 
